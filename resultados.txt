@@ -1,0 +1,6 @@
+oor -> Es aceptable.
+aaeeiioouu -> No es aceptable.
+contrasena123 -> No es aceptable.
+password123 -> No es aceptable.
+pasapalabra -> Es aceptable.
+bigotes -> Es aceptable.
